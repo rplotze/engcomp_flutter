@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "722820801085",
+    "project_id": "app-lista-tarefas-engcomp",
+    "storage_bucket": "app-lista-tarefas-engcomp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722820801085:android:f4917da05d8353bcc6c054",
+        "android_client_info": {
+          "package_name": "com.example.app08_lista_tarefas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722820801085-t86rkhq2boll1ceco22rcj6k792uvmam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFQyX3ERNlUAps2iP2NCUhZx5wG0-1rqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722820801085-t86rkhq2boll1ceco22rcj6k792uvmam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

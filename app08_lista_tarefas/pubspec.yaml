@@ -1,0 +1,23 @@
+name: app08_lista_tarefas
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=2.19.0 <4.0.0'
+
+dependencies:
+  cloud_firestore: ^4.6.0
+  device_preview: ^1.1.0
+  firebase_auth: ^4.5.0
+  firebase_core: ^2.11.0
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
